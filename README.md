@@ -1,6 +1,7 @@
-![(-\:/-)Sum without highest and lowest number(-\:/-)](file:///Users/ass/Desktop/codewars-problem.png)
 
-## CodeWars Challenge- 6
+
+## CodeWars Challenge- 6![codewars-problem](https://user-images.githubusercontent.com/107404699/232203084-67e5aa1f-b361-4391-a63e-a8dfe84afb03.png)
+
 
 Sum all the numbers of the array (in F# and Haskell you get a list) except the highest and the lowest element (the value, not the index!).
 (The highest/lowest element is respectively only one element at each edge, even if there are more than one with the same value!)
