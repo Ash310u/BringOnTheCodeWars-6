@@ -1,4 +1,4 @@
-![(-\:/-)Sum without highest and lowest number(-\:/-)](sum_without_highest_lowest.png)
+![(-\:/-)Sum without highest and lowest number(-\:/-)](file:///Users/ass/Desktop/codewars-problem.png)
 
 ## CodeWars Challenge- 6
 
