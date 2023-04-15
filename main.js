@@ -26,3 +26,12 @@ function sumArray(array) {
 
 //get the sum of all the num excluding the highest and lowest element values!
 //only one of these should be excluded even if repeated
+
+
+// short form little bit complex
+
+// you can try this
+
+// const sumArray = $ => !$ ? 0 : $.sort((a, b)=> a - b).slice(1,-1).reduce((acc, el)=> acc + el, 0)
+
+
